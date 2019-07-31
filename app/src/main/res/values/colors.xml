@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="CoklatTua">#726f66</color>
+    <color name="CoklatMuda1">#fff7e8</color>
+    <color name="CoklatMuda2">#fff2e6d0</color>
+
+    <color name="colorNavigationIcon">#dae9f6</color>
+    <color name="colorNavigationText">#ffffff</color>
+</resources>
